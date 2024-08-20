@@ -15,7 +15,7 @@ book:
   favicon: assets/orange.png
   margin-header: |
     ![](/assets/identifier_color.png)
-  repo-url: https://github.com/mirianlima/research-guidelines
+  repo-url: https://github.com/mirianlima/research_guidelines
   repo-branch: master
   chapters:
     - index.qmd
