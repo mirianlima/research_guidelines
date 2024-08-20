@@ -1,0 +1,33 @@
+# Introduction
+
+## Purpose of These Guidelines
+
+The objective of this document is to outline the key components and steps involved in conducting applied research within the context of a knowledge broker organization, such as the Office of the Special Advisor for Africa (OSAA). It aims to establish a common methodological framework for gathering, processing, translating, and building awareness of existing trustable evidence for policy decision-making. The scope of this document encompasses the entire research development process within OSAA, which corresponds to Phase 2 (Development) of OSAA’s project management workflow. It covers guidance on formulating research questions, selecting appropriate research design and methods, and developing analysis plans.
+
+Following a structured approach to research development ensures that:
+
+1. Research objectives align with the overall goals of OSAA’s Cluster Strategy and the Strategic Guidance of the Under-Secretary-General Special Adviser on Africa (USG).
+2. Process consistency and transparency are improved, enabling effective collaboration, consultation, and communication of findings and recommendations within and outside of OSAA.
+3. OSAA staff provide a standardized level of consistency, transparency, and credibility in the delivery of the knowledge outputs of the organization.
+
+## Evidence-based Knowledge Brokerage
+
+As OSAA seeks to solidify its role as a knowledge broker organization, the specifics of what this means can be visualized as follows:
+
+![Evidence-Based Knowledge Brokerage](assets/figures/fig-3.jpg)
+
+1. **Curation**: OSAA prioritizes synthesizing a vast array of evidence and data that exists in the public domain (within or outside the United Nations). This process involves not only selecting the most pertinent (trustable) sources but also doing so according to a purposefully crafted policy narrative, which aligns with its stakeholders' interests (i.e., OSAA’s Strategic Clusters’ Framework and the USG’s Strategic Guidance). This careful information curation process ensures that OSAA presents the most significant and relevant information to its stakeholders, in accordance with OSAA’s own strategic criteria and narratives.
+2. **Processing**: OSAA endeavors to process this data into a robust, actionable framework for decision-making, monitoring, and evaluation. This consists of:
+   - Combining the data into a cohesive set of related and trustable data, ready for analysis.
+   - Uncovering relationships, patterns, and trends from the curated data, and developing well-founded hypotheses on the underlying mechanics of cause and effect.
+3. **Translation**: OSAA strives to extract meaningful insights, construct a clear narrative, and contextualize the relationships, patterns, and trends uncovered from the curated information.
+
+OSAA understands the value of cohesive and empirical data, recognizing that it is not only the gathering of data that is important, but how it is combined and used that truly makes the difference. This enables the office to provide comprehensive advisory and advocacy services, with the ultimate goal of aiding the formulation and implementation of effective, evidence-based policies in Africa. By doing so, OSAA turns evidence into actionable knowledge, helping its stakeholders navigate the complexities of the African context and make informed decisions that drive impactful change.
+
+## Elements of an Effective Research
+
+An effective knowledge product comprises two essential components: the research question and the corresponding answer. The research question poses an inquiry to be addressed, such as verifying a theory, a hypothesis, or an assumption, evaluating a policy, assessing a body of evidence on a specific matter, or exploring the relationship between policy issues.
+
+Beyond the research question, a research output typically includes additional elements. Firstly, it is crucial to provide a rationale for the chosen question before delving into its exploration (i.e., the substantiation). Secondly, the output should explain the methodology employed to address the research question. Following this, the output proceeds to present the findings, which ultimately lead to the answer to the research question.
+
+An OSAA adaptation to these elements is presented in the Core Components of a Policy Analysis Output section. It is intended to be more suitable to a knowledge broker role, tasked with producing knowledge outputs for policy monitoring, advocacy, advisory, and coordination, as is the case of OSAA.

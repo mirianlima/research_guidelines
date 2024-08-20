@@ -1,0 +1,179 @@
+# Preliminary Research
+
+## Preliminary Research as a Foundation for Analysis Planning
+
+Preliminary research lays the foundation for the subsequent phases of the research process, particularly analysis planning and in-depth research. It provides the opportunity to:
+
+- **Identify Research Gaps**: Preliminary research helps identify existing gaps in knowledge or understanding of the research area. By exploring relevant literature and engaging with stakeholders, researchers can determine what aspects require further investigation and contribute to filling those gaps. Additionally, this process can uncover data gaps, which are the differences between the data we have and the data we need to answer a research question.
+
+- **Guide Analysis Planning**: The insights gained from preliminary research inform the development of an effective analysis plan. Staff members can identify tailored research methods, data needs, and analytical approaches based on their understanding of the research area and its existing body of knowledge.
+
+- **Improve Research Relevance**: Preliminary research ensures that the study is relevant and aligned with the objectives of OSAA, as well as the needs and perspectives of its stakeholders.
+
+## Key Components of Preliminary Research
+
+The preliminary research phase helps policy analysts lay the groundwork for their study. It involves gathering relevant information, exploring existing knowledge, and identifying gaps in the current understanding of the topic. The key components of preliminary research include:
+
+- **Literature Review**: Conduct a comprehensive review of existing literature, academic publications, reports, and other relevant sources to gain a thorough understanding of the topic. This step helps identify existing theories, concepts, data sources, bibliographic references, and methodologies related to the field of study and provides a foundation for further analysis.
+
+- **Stakeholder Analysis**: Identify and engage with key stakeholders who have expertise or interest in the research area. This may include policymakers, practitioners, subject matter experts, and individuals or organizations directly impacted by the research topic. Understanding stakeholders' perspectives and needs can guide the research process and ensure its relevance and applicability.
+
+- **Preliminary Data Analysis**: Research available quantitative studies related to the research topic. This can include analysis reports on existing datasets, surveys, case studies, or other relevant information sources. Preliminary data analysis helps identify previously reported evidence of relationships, patterns, trends, and potential areas for further investigation.
+
+- **Study Scope and Objective Definition**: Outline what the research aims to achieve and the boundaries within which it will operate. This includes:
+
+  - **Research Objectives**: Establish clear and measurable research objectives that align with OSAA’s strategic goals and the USG’s strategic guidance. These objectives should outline the desired outcomes of the research and guide the entire research process.
+  
+  - **Research Scope**: Determine the specific focus of the study by clearly defining the boundaries of the research area. This includes identifying the target population (and any gender, class, or age segment criteria), geographical location, time frame, and other relevant parameters that define the scope of the research.
+  
+  - **Research Questions**: Develop specific research questions that address the gaps in understanding identified during the preliminary research phase. These questions should be focused, relevant, and aligned with the research objectives. They act as a guide for the research process and help researchers stay focused on the purpose of their study's narrative.
+  
+## Designing an Analysis Plan
+
+### Research Design
+
+**Research Design vs. Research Methods**
+
+> "Research design is a plan to answer your research question. A research method is a strategy used to implement that plan. Research design and methods are different but closely related, as good research design ensures that the data you obtain will help you answer your research question more effectively." — *[Research Methods Guide: Research Design & Method, Virginia Tech](https://guides.lib.vt.edu/researchmethods/design-method)*
+
+Research design, also known as research methodology, concerns the various aspects which should be considered when carrying out a research project. It involves turning research questions into research projects and primarily deals with goals, purposes, intentions, and plans while considering practical constraints such as location, time, and resources.
+
+![Research Design Framework](assets/figures/fig-2.jpg)
+There are a number of research design models. The one presented in the image above (on the left) is a simple framework by Robson & McCartan (2016) ^[ Robson, C., & McCartan, K. (2016). *Real world research: A resource for users of social research methods in applied settings*]. The model (on the right) has been adapted to OSAA’s procedures in two ways:
+
+1. To exclude sampling concerns, as OSAA staff are not expected to conduct statistical surveys.
+
+2. To combine the purpose and conceptual framework into one Conceptual Note element, as is OSAA’s current practice (see section above for details on the Conceptual Note).
+
+:::{.callout-note collapse="true"}
+
+## BOX 1: Research Design vs Research Methods
+
+### Research Design VS Research Methods: what are the main differences? {.unnumbered}
+
+**Research Design** refers to the overall structure and plan of the study, including:
+
+  - Deciding on the research objectives and approach (quantitative, qualitative, case study, etc.).
+  - Determining whether primary or secondary research will be conducted.
+  - If primary research is conducted, specifying the data collection methods and procedures.
+  - Defining the research/data analysis methods.
+
+**Research Methods** are the specific techniques used to collect and analyze data, such as:
+
+  - Surveys
+  - Interviews
+  - Statistical analyses
+  - Literature reviews
+  - Discourse analysis
+  - Exploratory data analysis
+  
+:::
+
+### Conceptual Note
+
+The Conceptual Note establishes:
+1. **Purpose**: What the study aims to achieve (describe, explain, or understand a phenomenon) and relates back to the study's scope and objectives.
+2. **Conceptual Framework**: The concepts, theoretical foundation, mechanics, and assumptions that contextualize and guide the research, helping to interpret the findings.
+
+The conceptual framework provides a structure for organizing ideas, ensuring coherence in the research design and analysis by:
+- Guiding the research: Developing a clear understanding of the relationships and concepts that underpin the research.
+- Informing hypotheses: Outlining key variables, their interrelationships, and the expected direction of effects.
+
+#### Identifying and Articulating Assumptions
+
+Assumptions are the presuppositions that underlie the conceptual framework. They are beliefs the research relies on but does not verify. Identifying and articulating these assumptions ensures transparency and clarity, helping stakeholders understand the analyst's perspective and ensuring that the study's objectives and outcomes are aligned.
+
+### Research Method Selection
+
+The selection process involves determining the most appropriate approach to address the research questions and hypotheses, considering factors such as:
+
+- The nature of the research topic (exploratory, descriptive, or explanatory).
+- Available resources (time, budget, and access to data).
+- Time constraints.
+- The desired level of detail and accuracy in findings.
+
+**Common research methods include**:
+
+- **Quantitative Methods**: These involve collecting numerical data and analyzing it using statistical techniques. Quantitative methods are useful for measuring and analyzing relationships, patterns, and trends.
+
+- **Qualitative Methods**: These focus on gathering non-numerical data, such as interviews, focus groups, or textual analysis. Qualitative methods provide in-depth insights, capturing perspectives, experiences, and contextual nuances.
+
+- **Mixed Methods**: These combine quantitative and qualitative methods, allowing for a more comprehensive understanding of the research topic. Mixed methods can provide a deeper exploration of complex phenomena. This can be achieved by a back and forth analysis of underlying patterns, trends and relationships, through quantitative analysis, combined with in-depth exploration of cause-and-effect mechanisms behind these trends, through study case analysis.
+
+The [Research Methods Guide: Research Design & Method](https://guides.lib.vt.edu/researchmethods/design-method), by Virginia Tech, presents a non-exhaustive list of methods’ options, of which these are the most likely options in the context of OSAA’s work:
+
+- **Non-household surveys**. These may be conducted to collect information on African countries not included on public/paid country data available online, or otherwise. For instance, maintaining an updated database with historical information on all ODA concessional loans in Africa. Some crucial information may not be systematically collected by any other sources at this point.
+
+- **Interviews and/or focus groups** may be conducted with experts, stakeholders, field staff (UN or National Governments), etc.
+- **Secondary Data Analysis**, one common method currently applied at OSAA, as the main focus of the organization has been to leverage the vast amount of information already produced within the data ecosystems of the United Nations, African Union, academia and many more.
+
+- **Documentation review**, likely the most commonly applied method at OSAA. Along with interviews and surveys, it forms the most common combination of methods for case studies.
+
+- **Mixed Methods**, a combination of quantitative and qualitative methods, as, for instance, the combined approach of secondary data analysis and case studies. These combine quantitative and qualitative methods, allowing for a more comprehensive understanding of the research topic. Mixed methods can provide a deeper exploration of complex phenomena. This can be achieved by a back and forth analysis of underlying patterns, trends and relationships, through quantitative analysis, combined with in-depth exploration of cause-and-effect mechanisms behind these trends, through study case analysis.
+
+The possible combinations can be extensive, and, some, uncommon. In any case of doubt, the staff member should seek out the assistance of OSAA’s Strategic Management Unit (SMU) Data team.
+
+### Research Question and Hypotheses
+
+#### Formulating a Research Question
+
+Research questions should be specific, concise, and scoped on the **key aspects** of the research topic. Staff members should ask themselves: what needs to be known in order to achieve the purpose(s) of the study? Is that feasible to ask given the time and resources available?
+
+Formulating clear research questions is essential for guiding the research process and addressing the **objectives** of the study. They provide a focused direction and serve as a roadmap for the investigation and help staff stay on track throughout the study. When formulating research questions, also consider the following:
+
+- **Ensure clarity**: Research questions should be concise, specific, and clearly articulated. They should address the key issues or gaps in knowledge, identified during preliminary research, and the discussion presented in the conceptual note.
+
+- **Establish relevance**: Research questions should align with the strategic objectives and guiding principles of OSAA. They should aim to deliver on the USG’s strategic guidance and provide actionable insights to inform decision-making.
+
+#### The Relationship Between Research Question and Hypotheses
+Research questions and hypotheses are closely related components of the research process. Research questions outline the overall inquiries to be addressed, while hypotheses are specific statements that propose relationships or predictions about **variables** in the study, which the study aims to test or, simply, investigate. 
+
+:::{.callout-note collapse="true"}
+
+## BOX 2: Variables vs Indicators
+
+For the purposes of the data work at OSAA, a variable is defined the same as a column (aka an attribute) in a spreadsheet. For instance, in a table with country data (i.e. each row is a different country) and a column with each country’s GDP value, aptly named **“GDP”**, **“GDP”** is a variable. It is called a variable because, even though it measures the same phenomena (the country GDP), it varies from country to country (or from row to row). An indicator may be the equivalent to a variable (**GDP** can itself be an indicator) or require computation from more than one variable. In the same example, to get the **“GDP per Capita”** indicator, one must compute it using both the **“GDP”** and **“Population”** variables.
+
+:::
+
+Hypotheses provide a more precise and testable framework for data collection and analysis, supporting the research questions by offering **specific propositions** (i.e. predictions) **to be evaluated**. 
+
+In summary:
+
+- **Research Questions** These guide the overall inquiry and investigation. They are broad and open-ended, seeking to explore and understand a particular aspect of the research topic.
+
+- **Hypotheses** These are specific statements or assumptions **derived from the research questions**. Hypotheses provide a **testable proposition about the relationship between measures** (i.e. variables). They help researchers frame their analysis and provide a structured approach to answering the research questions.
+
+# Data Inventory
+
+## Identify Data Sources
+
+### Internal Sources
+
+Internal data sources (e.g., databases, organizational records) refer to data generated or collected within the UN System. These sources can include databases, administrative records, surveys conducted by the organization, or any other data repositories specific to the organization's operations or research activities. Staff members should identify and list all the internal data sources that may contain pertinent information for their research.
+
+### External Sources
+
+External data sources (e.g., public datasets, research studies) encompass data that is obtained from external entities or organizations. These sources can include publicly available datasets, research studies, reports published by government agencies, academic institutions, think tanks, or other relevant sources of publicly accessible data. Staff members should identify and list the external data sources that may contribute to the policy analysis.
+
+## Gather Information on Each Data Source
+
+For each identified data source, gather information about the data itself. This information will help in assessing the compatibility and usability of the data for the policy analysis, which will help estimate the amount of data work required for extracting, transforming, and making the data available for analysis.
+
+Furthermore, the data inventory procedure provides a comprehensive overview of the data available for the analysis (and the data missing, or the data gap). This helps ensure that the necessary information is available for subsequent stages of analysis, i.e., the in-depth research.
+
+### Steps in Developing a Data Inventory Annex
+
+Detailed instructions are provided in the Data Inventory Template in the Annex. In general, however, the information on data (i.e., the metadata) collected in the data inventory can be classified into two categories:
+
+1. **Source Metadata**: Identifies the specific **formats** in which the data is available, such as spreadsheets, databases, text files, CSV, PDF, or APIs.
+
+2. **Data Metadata**: Identifies the relevant **measures**, **type** (numerical, text, or categorical measures/variables), **indicators**, and **visuals** for the list of research questions and assumptions identified during the analysis planning phase.
+
+## Data Access and Data Risk Protocols
+
+Prioritize **public**, **freely available country-level** data for the data inventory. Identify any crucial non-public data that may be required for the analysis. Clearly indicate these as risk factors to the data analysis, as their limited availability or access restrictions may impact the development of the analysis.
+
+By prioritizing public, freely available data at the country-level and clearly identifying any non-public data needs as risk factors, the data inventory process ensures a focus on accessible and transparent data sources while acknowledging potential limitations. This approach promotes transparency, reproducibility, and the use of reliable data, while also highlighting any potential challenges or gaps that may arise from limited access to certain datasets.
+
+When opting to work with non-public data, staff members should also consider the legal and ethical implications of accessing this restricted data, as well as ensure compliance with relevant regulations and obtain appropriate permissions, if necessary.

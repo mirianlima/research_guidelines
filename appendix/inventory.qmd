@@ -1,0 +1,19 @@
+---
+title: "Data Inventory Template"
+---
+
+A data inventory table typically includes several attributes meant to capture relevant information about the data. Here are the attributes (columns) to be included in your data inventory table:
+
+1. **Data Element**: This attribute refers to the specific data element or field being recorded in the inventory. If the source is a dataset or a database, it corresponds to the column (aka, variable, measure, attribute) name.
+2. **Description**: This attribute provides a brief description of the data element, outlining its purpose or meaning.
+3. **Data Type**: This attribute specifies the type of data contained in the element. The options are: text, numeric, date, or categorical.
+4. **Source Type**: This attribute identifies the source or origin of the data, whether it is internal (generated within the UN), obtained from a third party, or collected through an OSAA survey.
+5. **Source Access**: Whether the source is public and free.
+6. **Format**: This attribute describes the format in which the data is stored, such as CSV, spreadsheet, database, PDF, or text file.
+7. **Location**: This attribute specifies the URL location where the data is accessible.
+8. **Data Frequency**: This attribute indicates how frequently the data is updated, whether it is weekly, monthly, annually, or as needed.
+9. **Visual (optional)**: What is the intended graph to visualize this data element?
+10. **Visual Goal (optional)**: What type of data relationship will this data element be used for?
+11. **Visual Title (optional)**: What would be the title of the graph? (this would be equivalent to the smart indicator name: the Specific Measurable Time-bound Indicator)
+
+![](../assets/figures/fig-6.jpg)

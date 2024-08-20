@@ -1,0 +1,53 @@
+---
+title: "Editorial Guidelines"
+---
+
+The Office of the Special Adviser on Africa (OSAA) primarily adheres to the United Nations Editorial Manual for its written outputs. This manual serves as an authoritative guide for drafting, editing, and reproducing United Nations documents, publications, and other written material. The full manual can be accessed at [https://www.un.org/dgacm/en/content/editorial-manual](https://www.un.org/dgacm/en/content/editorial-manual).
+
+However, in instances where the UN Editorial Manual may lack specific guidelines, such as in reference styling, the American Political Science Association (APSA) Style Manual is applied to complement the specific style guidelines for OSAA written outputs. The APSA Style Manual provides a set of rules and conventions for writing, citing, and formatting papers in the field of political science. It offers a uniform framework for consistency across publications and can improve readability across OSAA’s written knowledge products. The full manual can be accessed at [https://connect.apsanet.org/stylemanual/](https://connect.apsanet.org/stylemanual/).
+
+Below are summarized sections with a minimal set of instructions to abide by at OSAA. For illustration purposes, each section includes an example of style use. More detailed information is available at the links provided.
+
+## References
+
+OSAA adopts the UN's approach to references, which should be clear, concise, and consistent, usually placed in footnotes and always in the bibliography section. However, in terms of formatting, APSA's style is to be applied. Bibliographic references should be listed alphabetically by the author's last name, including the author's name, the publication year, the title of the work, and the publisher's information.
+
+For example, a book reference would appear as:  
+
+> *Smith, John. 2005. Politics and Policy. New York: Political Science Press.*
+
+## Footnotes and Text Notes
+
+Text Notes (In-line Citations) should include the author's last name and the year of publication, for instance, (Smith 2005). Footnotes are used to provide additional information or to cite sources. They should be numbered consecutively throughout the document. For example, a footnote citing a UN document might look like this:  
+
+>*"1/ See Official Records of the General Assembly, Seventy-fifth Session, Supplement No. 20 (A/75/20), para. 53."*
+
+## Cross References
+
+Cross-references are used to direct the reader to another part of the same document or to another document. They should be clear and precise. For example, a cross-reference to another paragraph in the same document might look like this:  
+
+>*"See paragraph 15 above."*
+
+## Abbreviations
+
+The use of abbreviations should be limited to avoid confusion. Common abbreviations such as 'US' for the United States or 'UN' for the United Nations are acceptable. However, all abbreviations should be clearly defined at first use.
+
+For example:  
+
+>*North Atlantic Treaty Organization (NATO)*
+
+## Indirect Speech
+
+The UN's guidelines on indirect speech are followed, where the tense of the verb should be backshifted. For example:  
+
+> *"The representative of France stated that his delegation would support the resolution"* 
+
+Instead of:
+
+> *"The representative of France states that his delegation will support the resolution."*
+
+## Managing References
+
+The management of references is a critical aspect of technical writing. It is advisable to use reference management software to organize and format references according to the APSA style. Such software can automate the process of creating, formatting, and updating references, thereby saving time and ensuring accuracy. These tools can be extremely helpful in managing large numbers of references and ensuring adherence to the OSAA’s editorial guidelines.
+
+Examples of popular reference management software include Jabref, EndNote, Zotero, and Mendeley. The recommended tool at OSAA is [JabRef](https://docs.jabref.org/) ^[ Quickstart guide available at [https://docs.jabref.org/getting-started](https://docs.jabref.org/getting-started)]

@@ -1,0 +1,115 @@
+---
+title: "In-depth Research"
+lightbox: true
+---
+
+## Output Development
+
+### Core Components of a Policy Analysis Output
+
+To help set a fluid flow for the document, it is suggested that staff members start by presenting the **research substantiation**. This is an opportunity to expand on the conceptual note and anchor the output on the USG Strategic Guidance.
+
+Secondly, authors should present and discuss the findings of their analysis **while supporting their claims with evidence**. This should be achieved either by presenting specific data, references, or quotes, or by arriving at logical conclusions based on previously introduced evidence. Expert opinions can, and should, be presented, but they should be coupled fairly with the evidence provided in the document. It should not be expected of the audience to simply *"take your word for it."*
+
+Finally, the concluding remarks should serve to clearly and concisely emphasize the main messages or insights that the analysis aims to elucidate.
+
+### Practical Contributions
+
+Here are a few key attributes to keep in mind at each stage. These are not compulsory and should be regarded as simple advice, to be taken on if perceived as helpful:
+
+#### Substantiation
+
+This segment expands on the conceptual note. It starts with an exposition on the importance of the topic, followed by a literature review that identifies existing theories, conflicts, or gaps leading to the research question. Finally, the research question (and corresponding hypothesis, if applicable) and an outline of the document are presented. The introduction section follows a progressively narrowing approach, starting broadly and gradually focusing on the research question.
+
+:::{.callout-tip collapse="true"}
+
+## Tip
+Focus on defining the problem or issue. Emphasize its priority or gravity level and objectively present the evidence landscape to persuade the audience that this is a priority, and why. Prioritize objectivity, reserving your voice for the discussion phase.
+
+:::
+
+#### Discussion
+
+The discussion section serves two primary objectives:
+1. To demonstrate that the research provides a convincing answer to the posed question.
+2. To illustrate the value of that answer.
+
+The discussion section may begin with a brief summary of the research methods and results (if applicable). This is followed by an interpretation of the findings, explaining their significance and whether they support the hypothesis or if there could be other explanations.
+
+Often, a section is dedicated to discussing the limitations of the study. This includes acknowledging the weaker aspects of the research and assessing whether these limitations invalidate the conclusions or if they can still be drawn despite the limitations. This should be optional and decided on a case-by-case basis, considering the specifics of the work.
+
+:::{.callout-tip collapse="true"}
+
+## Tips
+
+- Analyze, do not merely present the data. Your conclusions should make sense of the (quantitative or qualitative) data presented.
+- Develop a theory of change that connects your arguments to your conclusions.
+
+:::
+
+#### Conclusion
+
+The final segment of the discussion section is the summary and conclusion. This component aims to encapsulate the learnings from the research and delineate the subsequent steps or recommendations. The significance of this section lies in its position as the final part of the document that readers will engage with. Readers often jump directly to this section to glean a summary of the research's insights. If they find the summary compelling, they may invest time in reading the entire article. Therefore, it is advisable to begin with the research question, swiftly move to the results, bypass the method, and dedicate more space to reiterate the key insights, implications, and the value of the research. Mentioning limitations is not recommended in this section.
+
+:::{.callout-tip collapse="true"}
+
+## Tips
+
+- Briefly remind the audience of the overall picture: the goal of the work and the gravity of the matter. Remind the audience why the recommendations matter.
+
+- Address the feasibility of your recommendations and any caveats or reservations to keep in mind, if appropriate.
+
+- Provide allies for further analysis and/or a call to action (whichever makes sense in the reasoning developed).
+
+:::
+
+#### Executive Summary
+
+The executive summary leverages the expertise and credibility of the analyst and conveys key recommendations to the reader. It succinctly summarizes the main points for busy readers, while also highlighting recommendations in a memorable manner that drives future discussions. It may help to consider the perspective of the decision maker: What key points will best ensure the audience’s remembrance and understanding of the analysis arguments and conclusions?
+
+As a general rule, the executive summary should not exceed five percent of the complete document. However, its length should be adjusted as necessary to effectively summarize the key points. The executive summary should be crafted with precision and conciseness, ensuring that it captures the essence of your research and recommendations. A recommended structure for this section would include summarized versions of:
+
+1. The problem statement
+2. The methodological approach (if applicable)
+3. The key findings/recommendations
+4. The main conclusions and/or implications
+
+A recommended framework approach to draft your summary is to use the journalist’s questions: *"Who / What / Why / How."* ^[[*“Asking Journalistic Questions”*](https://thoughtfullearning.com/inquireHSbook/pg346) is a useful resource that can help reformulate these questions within the context of research.]
+
+## Output Standard Formats
+
+This section outlines the standard formats used for knowledge production within OSAA. These formats are designed to cater to different purposes, audiences, and content requirements, ensuring that the outputs are tailored to the specific needs of the stakeholders and align with the strategic objectives of the organization.
+
+![Knowledge Products](assets/figures/fig-4.jpg)
+
+### Document Formats
+
+Below is a comprehensive list of document formats used within the context of OSAA’s knowledge production work. Each format serves a unique purpose and is characterized by specific length and content criteria. These clear and concise definitions aim to facilitate effective communication and understanding among the staff and all OSAA stakeholders.
+
+- **Studies**: Long documents (approximately 10,000 words) that combine background, research, and policy recommendations.
+- **Policy Papers**: Longer documents (approximately 5,000 to 6,000 words) that analyze in depth a specific policy question.
+- **Policy Briefs**: Short, policy-focused documents (approximately 3,000 or less) that contain specific policy recommendations, normally derived from a previous Policy Paper’s concluding remarks.
+- **Snapshot**: Short (1 page or less) and highly visual and data-based document to convey information about a specific topic. It usually summarizes findings of another written product, i.e., any of the above.
+
+### Publications & Technical Writings
+
+Besides these guidelines, the staff member should consider if the document is intended as a general or technical publication. Technical publications are intended for a technical/expert audience, meaning the audience is expected to have some technical background on the content of the exposé. General Publications do not assume specialized background knowledge and have greater concern with designing storytelling arcs to help persuade its broader audience.
+
+### Output Functional Alignment
+
+A second classifier to keep in mind, other than general vs. technical publication, is to consider which OSAA function the document best aligns to. The staff members should consider if the document is intended as:
+
+i) A **diagnostic tool** that serves policy monitoring,
+
+ii) An **advisory contribution** to assist/inform a specific need of a specific audience, or
+
+iii) An **advocacy output** aiming at broadcasting and persuading a larger audience on the merits of a specific narrative being presented.
+
+### Output Outline Framework
+
+The **Output Outline Framework** is a structured guide designed to assist OSAA staff in organizing and presenting their research findings across various document formats, including Studies, Policy Papers, Policy Briefs, and Snapshots. The framework is visually represented in the accompanying table, which categorizes key sections of a document—such as the Executive Summary, Introduction, Methodology, Literature Review, and more—into three essential components: **Substantiation**, **Discussion**, and **Conclusion**. Each section is further defined with specific descriptions and aligned with the type of document to which it applies, with optional elements marked where there is flexibility. This structured approach ensures that every output is comprehensive, logically organized, and tailored to effectively communicate the research's key messages, findings, and recommendations to its intended audience.
+
+![Product Outline Framework](assets/figures/fig-5.jpg)
+
+
+

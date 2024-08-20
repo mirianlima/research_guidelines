@@ -1,0 +1,49 @@
+project:
+  type: book
+  output-dir: docs
+  
+book:
+  title: Research Guidelines
+  subtitle: "OSAA Research Management Guide"
+  reader-mode: true
+  page-footer:
+    right: |
+      Written by [Mirian Lima](mailto:mirian.lima@un.org) @OSAA
+  cover-image: assets/cover.jpg
+  downloads: pdf
+  page-navigation: true
+  favicon: assets/orange.png
+  margin-header: |
+    ![](/assets/identifier_color.png)
+  repo-url: https://github.com/mirianlima/research-guidelines
+  repo-branch: master
+  chapters:
+    - index.qmd
+    - executive-summary.qmd
+    - part: Main Section
+      chapters: 
+        - chapters/introduction.qmd
+        - chapters/preliminary-research.qmd
+        - chapters/indepth-research.qmd
+    - part: Appendix
+      chapters:
+        - appendix/survey.qmd
+        - appendix/analysis_plan.qmd
+        - appendix/inventory.qmd
+        - appendix/editorial.qmd
+        - appendix/annotated_biblio.qmd
+
+format:
+  html:
+    code-link: true
+    theme: 
+      - cosmo
+      - styles/research.scss
+    toc: true
+  pdf:
+    documentclass: scrreprt
+
+    author-meta: "Mirian Lima"
+    callout-appearance: simple
+
+

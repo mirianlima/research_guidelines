@@ -1,0 +1,35 @@
+---
+title: "Annotated Bibliography"
+---
+
+## Why an Annotated Bibliography?
+
+An annotated bibliography serves as a comprehensive guide to the literature on a specific topic, providing a snapshot of the available research and offering a roadmap for further exploration. It is a valuable tool for professional (and academic) research, aiding in the organization, synthesis, and evaluation of sources. An annotated bibliography can be very useful in the following ways:
+
+1. An annotated bibliography promotes organization. It provides a structured way to keep track of the numerous sources one might encounter during the research process. By summarizing each source and noting its relevance, reliability, and quality, researchers can easily recall the content of each source and its applicability to their work.
+
+2. It aids in the synthesis of information. By summarizing and evaluating each source, researchers are forced to engage deeply with the material, fostering a better understanding of the topic. This process can help identify patterns, gaps, or inconsistencies in the literature, guiding future research directions.
+
+3. An annotated bibliography serves as a tool for critical evaluation. It requires the researcher to assess the credibility and reliability of each source, honing their critical thinking skills. This process can help distinguish between high-quality, trustworthy sources and those that may be less reliable or relevant.
+
+## Producing an Annotated Bibliography
+
+To create an annotated bibliography, one must first identify and record citations for relevant sources. Each citation is followed by a brief descriptive and evaluative paragraph, the annotation. The purpose of the annotation is to inform the reader of the relevance, accuracy, and quality of the sources cited.
+
+The process of writing an annotated bibliography can be broken down into three steps:
+
+1. **Citation**: Write the citation in the correct format. This will depend on the citation style guide (APA, MLA, Chicago, etc.) you are following.
+2. **Summary**: Write a brief summary of the source. This should include the main arguments, topics covered, and the purpose of the work.
+3. **Evaluation**: Evaluate the source. Consider the author's credentials, the quality of the evidence, the objectivity of the author, and how relevant the source is to your research.
+
+### Resources
+
+For more guidance on writing an annotated bibliography, the following resources may be helpful:
+
+1. [Purdue Online Writing Lab (OWL)](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/annotated_bibliographies/index.html): Provides detailed guidelines on the process of writing an annotated bibliography.
+
+2. [Cornell University Library](https://guides.library.cornell.edu/annotatedbibliography): Offers a step-by-step guide on how to prepare an annotated bibliography.
+
+### The Annotated Outline as an internship deliverable
+
+The development of an annotated outline (or a data inventory, for instance) would constitute excellent goals to design structured internships around. It is highly recommended that staff members leverage these and other items in the research guide as activities for students and young professionals in internship programs at OSAA.

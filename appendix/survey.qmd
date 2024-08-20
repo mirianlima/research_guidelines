@@ -1,0 +1,60 @@
+---
+title: "Research Compliance Survey"
+---
+
+This survey has been designed to serve as a valuable checklist tool, enabling staff members to assess their research's compliance with the essential steps, requirements, and standards outlined in OSAA’s Research Management Guide. By undertaking this survey, staff members can exercise self-compliance control and identify further areas of improvement, if any.
+
+This survey is also intended to ensure research integrity, and its input will support improved quality control and accountability during knowledge products development at OSAA. Ultimately, it is expected this will contribute to the enhancement of research practices and the pursuit of excellence in scientific endeavors.
+
+## Preliminary Research 
+Conduct thorough preliminary research to identify research gaps, guide analysis planning, and enhance research relevance.
+
+1. Have you developed an understanding of the main existing theories, concepts, data sources, bibliographic references, and methodologies related to the field of study?
+
+2. Have you identified the gap in knowledge/understanding you plan to fill with this output?
+
+3. Preliminary research requirements:
+    - **Literature review:** Do you have a clear outline of the problem, its causes and effects?
+    - **Stakeholder analysis:** Have you identified the key stakeholders who have expertise or interest in the research area?
+    - **Preliminary data analysis:** Have you identified data patterns, trends, and potential areas for further investigation?
+    - **Defining scope and objectives:** Have you defined the scope and objectives for your study that align with the gap identified?
+
+## Designing an Analysis Plan
+Communicate the purpose of the study and develop a conceptual framework, identify and articulate assumptions, and distinguish between research design and research methods.
+
+1. Have you used the Data Analysis Plan and Data Inventory templates to build a roadmap for data gathering, analysis, and interpretation?
+
+2. Does your research purpose (goal) match the knowledge gap you plan to address?
+
+3. Conceptual Framework:
+    - Have you outlined the key measures, their interrelationships, and the expected direction of effects?
+    - Have you presented your assumptions, i.e., the intentions and desired contributions of your work? Do these align with the study scope and objectives from preliminary research?
+
+4. Research Method Selection:
+    - Have you identified the nature of your research? I.e., is it exploratory, explanatory, or descriptive?
+    - Have you listed the methods you are considering using, whether they are quantitative, qualitative, or mixed methods?
+
+5. Research Question and Hypothesis:
+    - Have you clearly identified specific research questions that address the gap in knowledge identified during preliminary research?
+    - Do your questions align with OSAA’s strategic goals?
+    - Have you listed your hypotheses as testable propositions on the relationship between the variables you will be looking at?
+
+## Data Inventory
+Identify internal and external data sources, gather information on each data source, and prioritize public, freely available country-level data.
+
+1. Have you identified your sources as Internal vs. External?
+
+2. Have you added source and data metadata to each of your sources?
+
+3. If you require non-public data sources, have you confirmed there are no suitable public alternatives?
+
+4. If you require non-public data sources, have you clearly identified those as risks?
+
+## Output Development
+Structure policy analysis output with a foundation, argumentation, and conclusion, and craft an effective executive summary.
+
+1. Have you followed the output components matrix framework when designing your output outline and, later, your first draft?
+
+2. Are you satisfied you have aptly presented the foundation, argumentation, and conclusion of your narrative?
+
+3. Does your executive summary help the reader get a sense of who/what/why and how?

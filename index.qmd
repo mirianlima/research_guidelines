@@ -1,0 +1,54 @@
+# Welcome {.unnumbered}
+
+Welcome to the OSAA Research Guidelines. This book provides a comprehensive framework for conducting applied research within the context of a knowledge broker organization, such as OSAA. It aims to establish a common methodological approach for gathering, processing, translating, and building awareness of existing trustable evidence, ultimately contributing to evidence-informed policy development in Africa.
+
+The guidelines cover the entire knowledge output development process, including preliminary research, analysis planning, data inventory, and output development. By following a structured approach, OSAA staff can ensure consistency, transparency, and credibility in their work, maximizing impact and aligning with the organization's strategic goals.
+
+## Structure of the Book {.unnumbered}
+
+This book is divided into several chapters, each focusing on a key aspect of the research process:
+
+1.  **Preliminary Research**: Establishing the foundation for your study by identifying knowledge gaps, conducting literature reviews, and performing stakeholder analysis. This phase ensures that your research is relevant and well-informed. Within this section two very important sub-contents are included:
+    1.  **Research Design**: Crafting a robust framework for your study, including developing a conceptual framework, selecting appropriate research methods, and formulating clear research questions and hypotheses. This stage lays out the plan for how your research will be conducted.
+    2.  **Data Inventory**: Systematically identifying and documenting relevant data sources, both internal and external. This includes assessing the quality and accessibility of data to ensure that you have the necessary information to support your research.
+2.  **In-depth Research**: Engaging in detailed and thorough analysis to develop comprehensive policy analysis outputs. This involves analyzing data, interpreting findings, and generating insights that are crucial for policy development.
+3.  **Output Development**: Producing various knowledge products such as executive summaries, policy papers, and briefs. This stage focuses on effectively communicating your research findings and recommendations to your target audience.
+
+## How to Use This Book {.unnumbered}
+
+Each chapter provides detailed guidelines and templates to assist you in every step of your research journey. It is recommended to follow the chapters sequentially for a comprehensive understanding of the research process. However, you may also refer to specific chapters as needed.
+
+## Table of Contents {.unnumbered}
+
+1.  [Executive Summary](executive-summary.md)
+2.  [Introduction](introduction.md)
+    -   [Purpose of These Guidelines](introduction.md#purpose-of-these-guidelines)
+    -   [Evidence-based Knowledge Brokerage](introduction.md#evidence-based-knowledge-brokerage)
+    -   [Elements of an Effective Research](introduction.md#elements-of-an-effective-research)
+3.  [Preliminary Research](preliminary-research.md)
+    -   [Key Components of Preliminary Research](preliminary-research.md#key-components-of-preliminary-research)
+    -   [Designing an Analysis Plan](preliminary-research.md#designing-an-analysis-plan)
+4.  [Research Design](research-design.md)
+    -   [Conceptual Note](research-design.md#conceptual-note)
+    -   [Research Method Selection](research-design.md#research-method-selection)
+    -   [Research Question and Hypotheses](research-design.md#research-question-and-hypotheses)
+5.  [Data Inventory](data-inventory.md)
+    -   [Identify Data Sources](data-inventory.md#identify-data-sources)
+    -   [Gather Information on Each Data Source](data-inventory.md#gather-information-on-each-data-source)
+    -   [Data Access and Data Risk Protocols](data-inventory.md#data-access-and-data-risk-protocols)
+6.  [In-depth Research](in-depth-research.md)
+    -   [Output Development](in-depth-research.md#output-development)
+    -   [Core Components of a Policy Analysis Output](in-depth-research.md#core-components-of-a-policy-analysis-output)
+    -   [Practical Contributions](in-depth-research.md#practical-contributions)
+    -   [Executive Summary](in-depth-research.md#executive-summary)
+7.  [Output Standard Formats](output-standard-formats.md)
+    -   [Document Formats](output-standard-formats.md#document-formats)
+    -   [Publications & Technical Writings](output-standard-formats.md#publications-technical-writings)
+    -   [Output Functional Alignment](output-standard-formats.md#output-functional-alignment)
+    -   [Output Outline Framework](output-standard-formats.md#output-outline-framework)
+8.  [Annexes](annexes.md)
+    -   [Research Compliance Survey](annexes.md#research-compliance-survey)
+    -   [Analysis Plan Template](annexes.md#analysis-plan-template)
+    -   [Data Inventory Template](annexes.md#data-inventory-template)
+    -   [Editorial Guidelines](annexes.md#editorial-guidelines)
+    -   [Annotated Bibliography](annexes.md#annotated-bibliography)

@@ -1,0 +1,33 @@
+---
+title: "Analysis Plan Template"
+---
+
+The section items presented below should be approached not as a mere formality where every item must be checked off, but rather as a thinking and memory aid. It is important to reflect on each item, as some aspects may be applicable to a specific study while others may not. In any case, taking time to reflect on each item will help ensure comprehensive planning.
+
+## Strategic Context
+
+- The relevance of the research topic to OSAA's strategic goals should be briefly introduced, highlighting the knowledge gap being addressed.
+- The importance of the analysis plan in ensuring a structured and effective research process should be explained.
+
+## Introduction
+
+- The key components of preliminary research, including literature review, stakeholder analysis, preliminary data analysis, and the definition of study scope and objectives, should be summarized.
+- A conceptual framework should be presented, outlining key measures, their interrelationships, and the expected direction of effects. The alignment of these elements with the intentions and desired contributions of the work should be highlighted.
+
+## Research Design
+
+- The conceptual framework should be delineated.
+- The research questions and hypotheses should be presented.
+- The nature of the research, chosen knowledge output format, and selected methods for answering the defined questions and hypotheses should be stated.
+- If data analysis is planned, the linkage of preliminary data analysis to the criteria used in selecting the sources listed on the data inventory should be explained.
+- The choices made in the research design should be justified based on the overall objective of the research.
+
+## Conclusion
+
+- The key elements of the analysis plan and their importance in ensuring a structured, transparent, and effective research process should be summarized.
+- The potential impact of following this analysis plan template in contributing to evidence-informed policy development should be emphasized.
+
+## Annex
+
+- Data Inventory
+- Research Management Compliance Survey

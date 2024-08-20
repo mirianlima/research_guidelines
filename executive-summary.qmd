@@ -1,0 +1,26 @@
+# Executive Summary {.unnumbered}
+
+## Main Sections {.unnumbered}
+
+The OSAA Research Guidelines provide a comprehensive framework for conducting applied research within the context of a knowledge broker organization, such as OSAA. The purpose of these guidelines is to establish a common methodological approach for gathering, processing, translating, and building awareness of existing trustable evidence, ultimately contributing to evidence-informed policy development in Africa.
+
+The guidelines cover the entire knowledge output development process, including preliminary research, analysis planning, data inventory, and output development. By following a structured approach, OSAA staff can ensure consistency, transparency, and credibility in their work, maximizing the impact and aligning with the organization's strategic goals.
+
+**Preliminary Research** is vital for identifying research gaps, guiding analysis planning, and enhancing research relevance. Key components of preliminary research include literature review, stakeholder analysis, preliminary data analysis, and defining the study scope and objectives.
+
+The guidelines also present a detailed process for developing an **Analysis Plan**. Emphasis is placed on the importance of a conceptual framework, which provides a theoretical foundation for the research study. It is crucial to identify and articulate assumptions underlying the research to ensure transparency and clarity. **Research Design** and **Research Methods** are distinguished sections, with research design referring to the overall structure and plan of the study, while research methods are specific techniques used to collect and analyze data. The selection of appropriate research methods is essential for addressing research questions and hypotheses.
+
+**Data Inventory** is a crucial step in identifying and gathering information about relevant data sources, both internal and external. Staff members should prioritize public, freely available country-level data and clearly identify any non-public data needs as risk factors.
+
+The **Output Development** section focuses on the core components of a policy analysis output, including foundation, argumentation, and conclusion. The executive summary holds paramount importance, as it succinctly summarizes the main points and recommendations for busy readers.
+
+The guidelines also provide a comprehensive list of document formats used within the context of OSAA's knowledge production work, including studies, policy papers, policy briefs, and snapshots. This section includes suggested output components for each document format. Staff members should consider the intended audience (stakeholders) and main function (i.e., advisory, advocacy, or monitoring) of the document when selecting the appropriate format.
+
+## Appendix {.unnumbered}
+
+the appendixes offer valuable resources to support the research process. These include templates for analysis plans, data inventories, compliance surveys, editorial guidelines, and an annotated bibliography. These tools are designed to enhance research quality and ensure adherence to best practices.
+
+## Outro {.unnumbered}
+
+In summary, the OSAA Research Guidelines offer a structured approach to conducting applied policy research, ensuring consistency, transparency, and credibility in the work of OSAA staff. By adhering to these guidelines, staff can contribute to evidence-informed policy development and maximize the impact of their research.
+
