@@ -58,10 +58,6 @@ The repository is organized into several key sections:
 
 These guidelines are for internal use within OSAA. For external usage permissions, please contact the Office of the Special Adviser on Africa.
 
-## Contributions
-
-For suggestions or contributions, please follow the repository’s contribution guidelines and submit a pull request.
-
 ## Support
 
-For questions or further guidance on using these research guidelines, please contact [Your Contact Information or Support Email].
+For questions or further guidance on using these research guidelines, please contact [mirian.lima\@un.org](mailto:mirian.lima@un.org?subject=Research Guidelines on Github).
