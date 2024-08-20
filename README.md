@@ -60,4 +60,4 @@ These guidelines are for internal use within OSAA. For external usage permission
 
 ## Support
 
-For questions or further guidance on using these research guidelines, please contact [mirian.lima\@un.org](mailto:mirian.lima@un.org?subject=Research Guidelines on Github).
+For questions or further guidance on using these research guidelines, please contact [mirian.lima@un.org](mailto:mirian.lima@un.org?subject=Research%20Guidelines%20on%20Github).
