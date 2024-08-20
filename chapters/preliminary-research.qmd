@@ -38,7 +38,7 @@ The preliminary research phase helps policy analysts lay the groundwork for thei
 
 Research design, also known as research methodology, concerns the various aspects which should be considered when carrying out a research project. It involves turning research questions into research projects and primarily deals with goals, purposes, intentions, and plans while considering practical constraints such as location, time, and resources.
 
-![Research Design Framework](assets/figures/fig-2.jpg)
+![Research Design Framework](../assets/figures/fig-2.jpg)
 There are a number of research design models. The one presented in the image above (on the left) is a simple framework by Robson & McCartan (2016) ^[ Robson, C., & McCartan, K. (2016). *Real world research: A resource for users of social research methods in applied settings*]. The model (on the right) has been adapted to OSAA’s procedures in two ways:
 
 1. To exclude sampling concerns, as OSAA staff are not expected to conduct statistical surveys.

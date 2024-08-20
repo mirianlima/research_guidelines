@@ -80,7 +80,7 @@ A recommended framework approach to draft your summary is to use the journalist�
 
 This section outlines the standard formats used for knowledge production within OSAA. These formats are designed to cater to different purposes, audiences, and content requirements, ensuring that the outputs are tailored to the specific needs of the stakeholders and align with the strategic objectives of the organization.
 
-![Knowledge Products](assets/figures/fig-4.jpg)
+![Knowledge Products](../assets/figures/fig-4.jpg)
 
 ### Document Formats
 
@@ -109,7 +109,7 @@ iii) An **advocacy output** aiming at broadcasting and persuading a larger audie
 
 The **Output Outline Framework** is a structured guide designed to assist OSAA staff in organizing and presenting their research findings across various document formats, including Studies, Policy Papers, Policy Briefs, and Snapshots. The framework is visually represented in the accompanying table, which categorizes key sections of a document—such as the Executive Summary, Introduction, Methodology, Literature Review, and more—into three essential components: **Substantiation**, **Discussion**, and **Conclusion**. Each section is further defined with specific descriptions and aligned with the type of document to which it applies, with optional elements marked where there is flexibility. This structured approach ensures that every output is comprehensive, logically organized, and tailored to effectively communicate the research's key messages, findings, and recommendations to its intended audience.
 
-![Product Outline Framework](assets/figures/fig-5.jpg)
+![Product Outline Framework](../assets/figures/fig-5.jpg)
 
 
 

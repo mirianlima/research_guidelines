@@ -14,7 +14,7 @@ Following a structured approach to research development ensures that:
 
 As OSAA seeks to solidify its role as a knowledge broker organization, the specifics of what this means can be visualized as follows:
 
-![Evidence-Based Knowledge Brokerage](assets/figures/fig-3.jpg)
+![Evidence-Based Knowledge Brokerage](../assets/figures/fig-3.jpg)
 
 1. **Curation**: OSAA prioritizes synthesizing a vast array of evidence and data that exists in the public domain (within or outside the United Nations). This process involves not only selecting the most pertinent (trustable) sources but also doing so according to a purposefully crafted policy narrative, which aligns with its stakeholders' interests (i.e., OSAA’s Strategic Clusters’ Framework and the USG’s Strategic Guidance). This careful information curation process ensures that OSAA presents the most significant and relevant information to its stakeholders, in accordance with OSAA’s own strategic criteria and narratives.
 2. **Processing**: OSAA endeavors to process this data into a robust, actionable framework for decision-making, monitoring, and evaluation. This consists of:

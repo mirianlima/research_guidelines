@@ -50,11 +50,11 @@
     ]
   },
   {
-    "objectID": "executive-summary.html#appendixes",
-    "href": "executive-summary.html#appendixes",
+    "objectID": "executive-summary.html#appendix",
+    "href": "executive-summary.html#appendix",
     "title": "Executive Summary",
-    "section": "Appendixes",
-    "text": "Appendixes\nthe appendixes offer valuable resources to support the research process. These include templates for analysis plans, data inventories, compliance surveys, editorial guidelines, and an annotated bibliography. These tools are designed to enhance research quality and ensure adherence to best practices.",
+    "section": "Appendix",
+    "text": "Appendix\nthe appendixes offer valuable resources to support the research process. These include templates for analysis plans, data inventories, compliance surveys, editorial guidelines, and an annotated bibliography. These tools are designed to enhance research quality and ensure adherence to best practices.",
     "crumbs": [
       "Executive Summary"
     ]
@@ -67,236 +67,6 @@
     "text": "Outro\nIn summary, the OSAA Research Guidelines offer a structured approach to conducting applied policy research, ensuring consistency, transparency, and credibility in the work of OSAA staff. By adhering to these guidelines, staff can contribute to evidence-informed policy development and maximize the impact of their research.",
     "crumbs": [
       "Executive Summary"
-    ]
-  },
-  {
-    "objectID": "executive-summary.html#appendix",
-    "href": "executive-summary.html#appendix",
-    "title": "Executive Summary",
-    "section": "Appendix",
-    "text": "Appendix\nthe appendixes offer valuable resources to support the research process. These include templates for analysis plans, data inventories, compliance surveys, editorial guidelines, and an annotated bibliography. These tools are designed to enhance research quality and ensure adherence to best practices.",
-    "crumbs": [
-      "Executive Summary"
-    ]
-  },
-  {
-    "objectID": "introduction.html",
-    "href": "introduction.html",
-    "title": "1  Introduction",
-    "section": "",
-    "text": "1.1 Purpose of These Guidelines\nThe objective of this document is to outline the key components and steps involved in conducting applied research within the context of a knowledge broker organization, such as the Office of the Special Advisor for Africa (OSAA). It aims to establish a common methodological framework for gathering, processing, translating, and building awareness of existing trustable evidence for policy decision-making. The scope of this document encompasses the entire research development process within OSAA, which corresponds to Phase 2 (Development) of OSAA’s project management workflow. It covers guidance on formulating research questions, selecting appropriate research design and methods, and developing analysis plans.\nFollowing a structured approach to research development ensures that:",
-    "crumbs": [
-      "Main Section",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
-    ]
-  },
-  {
-    "objectID": "introduction.html#purpose-of-these-guidelines",
-    "href": "introduction.html#purpose-of-these-guidelines",
-    "title": "1  Introduction",
-    "section": "",
-    "text": "Research objectives align with the overall goals of OSAA’s Cluster Strategy and the Strategic Guidance of the Under-Secretary-General Special Adviser on Africa (USG).\nProcess consistency and transparency are improved, enabling effective collaboration, consultation, and communication of findings and recommendations within and outside of OSAA.\nOSAA staff provide a standardized level of consistency, transparency, and credibility in the delivery of the knowledge outputs of the organization.",
-    "crumbs": [
-      "Main Section",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
-    ]
-  },
-  {
-    "objectID": "introduction.html#evidence-based-knowledge-brokerage",
-    "href": "introduction.html#evidence-based-knowledge-brokerage",
-    "title": "1  Introduction",
-    "section": "1.2 Evidence-based Knowledge Brokerage",
-    "text": "1.2 Evidence-based Knowledge Brokerage\nAs OSAA seeks to solidify its role as a knowledge broker organization, the specifics of what this means can be visualized as follows:\n\n\n\nEvidence-Based Knowledge Brokerage\n\n\n\nCuration: OSAA prioritizes synthesizing a vast array of evidence and data that exists in the public domain (within or outside the United Nations). This process involves not only selecting the most pertinent (trustable) sources but also doing so according to a purposefully crafted policy narrative, which aligns with its stakeholders’ interests (i.e., OSAA’s Strategic Clusters’ Framework and the USG’s Strategic Guidance). This careful information curation process ensures that OSAA presents the most significant and relevant information to its stakeholders, in accordance with OSAA’s own strategic criteria and narratives.\nProcessing: OSAA endeavors to process this data into a robust, actionable framework for decision-making, monitoring, and evaluation. This consists of:\n\nCombining the data into a cohesive set of related and trustable data, ready for analysis.\nUncovering relationships, patterns, and trends from the curated data, and developing well-founded hypotheses on the underlying mechanics of cause and effect.\n\nTranslation: OSAA strives to extract meaningful insights, construct a clear narrative, and contextualize the relationships, patterns, and trends uncovered from the curated information.\n\nOSAA understands the value of cohesive and empirical data, recognizing that it is not only the gathering of data that is important, but how it is combined and used that truly makes the difference. This enables the office to provide comprehensive advisory and advocacy services, with the ultimate goal of aiding the formulation and implementation of effective, evidence-based policies in Africa. By doing so, OSAA turns evidence into actionable knowledge, helping its stakeholders navigate the complexities of the African context and make informed decisions that drive impactful change.",
-    "crumbs": [
-      "Main Section",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
-    ]
-  },
-  {
-    "objectID": "introduction.html#elements-of-an-effective-research",
-    "href": "introduction.html#elements-of-an-effective-research",
-    "title": "1  Introduction",
-    "section": "1.3 Elements of an Effective Research",
-    "text": "1.3 Elements of an Effective Research\nAn effective knowledge product comprises two essential components: the research question and the corresponding answer. The research question poses an inquiry to be addressed, such as verifying a theory, a hypothesis, or an assumption, evaluating a policy, assessing a body of evidence on a specific matter, or exploring the relationship between policy issues.\nBeyond the research question, a research output typically includes additional elements. Firstly, it is crucial to provide a rationale for the chosen question before delving into its exploration (i.e., the substantiation). Secondly, the output should explain the methodology employed to address the research question. Following this, the output proceeds to present the findings, which ultimately lead to the answer to the research question.\nAn OSAA adaptation to these elements is presented in the Core Components of a Policy Analysis Output section. It is intended to be more suitable to a knowledge broker role, tasked with producing knowledge outputs for policy monitoring, advocacy, advisory, and coordination, as is the case of OSAA.",
-    "crumbs": [
-      "Main Section",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
-    ]
-  },
-  {
-    "objectID": "preliminary-research.html",
-    "href": "preliminary-research.html",
-    "title": "2  Preliminary Research",
-    "section": "",
-    "text": "2.1 Preliminary Research as a Foundation for Analysis Planning\nPreliminary research lays the foundation for the subsequent phases of the research process, particularly analysis planning and in-depth research. It provides the opportunity to:",
-    "crumbs": [
-      "Main Section",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Preliminary Research</span>"
-    ]
-  },
-  {
-    "objectID": "preliminary-research.html#preliminary-research-as-a-foundation-for-analysis-planning",
-    "href": "preliminary-research.html#preliminary-research-as-a-foundation-for-analysis-planning",
-    "title": "2  Preliminary Research",
-    "section": "",
-    "text": "Identify Research Gaps: Preliminary research helps identify existing gaps in knowledge or understanding of the research area. By exploring relevant literature and engaging with stakeholders, researchers can determine what aspects require further investigation and contribute to filling those gaps. Additionally, this process can uncover data gaps, which are the differences between the data we have and the data we need to answer a research question.\nGuide Analysis Planning: The insights gained from preliminary research inform the development of an effective analysis plan. Staff members can identify tailored research methods, data needs, and analytical approaches based on their understanding of the research area and its existing body of knowledge.\nImprove Research Relevance: Preliminary research ensures that the study is relevant and aligned with the objectives of OSAA, as well as the needs and perspectives of its stakeholders.",
-    "crumbs": [
-      "Main Section",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Preliminary Research</span>"
-    ]
-  },
-  {
-    "objectID": "preliminary-research.html#key-components-of-preliminary-research",
-    "href": "preliminary-research.html#key-components-of-preliminary-research",
-    "title": "2  Preliminary Research",
-    "section": "2.2 Key Components of Preliminary Research",
-    "text": "2.2 Key Components of Preliminary Research\nThe preliminary research phase helps policy analysts lay the groundwork for their study. It involves gathering relevant information, exploring existing knowledge, and identifying gaps in the current understanding of the topic. The key components of preliminary research include:\n\nLiterature Review: Conduct a comprehensive review of existing literature, academic publications, reports, and other relevant sources to gain a thorough understanding of the topic. This step helps identify existing theories, concepts, data sources, bibliographic references, and methodologies related to the field of study and provides a foundation for further analysis.\nStakeholder Analysis: Identify and engage with key stakeholders who have expertise or interest in the research area. This may include policymakers, practitioners, subject matter experts, and individuals or organizations directly impacted by the research topic. Understanding stakeholders’ perspectives and needs can guide the research process and ensure its relevance and applicability.\nPreliminary Data Analysis: Research available quantitative studies related to the research topic. This can include analysis reports on existing datasets, surveys, case studies, or other relevant information sources. Preliminary data analysis helps identify previously reported evidence of relationships, patterns, trends, and potential areas for further investigation.\nStudy Scope and Objective Definition: Outline what the research aims to achieve and the boundaries within which it will operate. This includes:\n\nResearch Objectives: Establish clear and measurable research objectives that align with OSAA’s strategic goals and the USG’s strategic guidance. These objectives should outline the desired outcomes of the research and guide the entire research process.\nResearch Scope: Determine the specific focus of the study by clearly defining the boundaries of the research area. This includes identifying the target population (and any gender, class, or age segment criteria), geographical location, time frame, and other relevant parameters that define the scope of the research.\nResearch Questions: Develop specific research questions that address the gaps in understanding identified during the preliminary research phase. These questions should be focused, relevant, and aligned with the research objectives. They act as a guide for the research process and help researchers stay focused on the purpose of their study’s narrative.",
-    "crumbs": [
-      "Main Section",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Preliminary Research</span>"
-    ]
-  },
-  {
-    "objectID": "research-design.html",
-    "href": "research-design.html",
-    "title": "3  Designing an Analysis Plan",
-    "section": "",
-    "text": "3.1 Research Design\nResearch Design vs. Research Methods\nResearch design, also known as research methodology, concerns the various aspects which should be considered when carrying out a research project. It involves turning research questions into research projects and primarily deals with goals, purposes, intentions, and plans while considering practical constraints such as location, time, and resources.\nThere are a number of research design models. The one presented in the image above (on the left) is a simple framework by Robson & McCartan (2016) 1. The model (on the right) has been adapted to OSAA’s procedures in two ways: 1. To exclude sampling concerns, as OSAA staff are not expected to conduct statistical surveys. 2. To combine the purpose and conceptual framework into one Conceptual Note element, as is OSAA’s current practice (see section above for details on the Conceptual Note).",
-    "crumbs": [
-      "Main Section",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Designing an Analysis Plan</span>"
-    ]
-  },
-  {
-    "objectID": "research-design.html#research-design",
-    "href": "research-design.html#research-design",
-    "title": "3  Designing an Analysis Plan",
-    "section": "",
-    "text": "“Research design is a plan to answer your research question. A research method is a strategy used to implement that plan. Research design and methods are different but closely related, as good research design ensures that the data you obtain will help you answer your research question more effectively.” — Research Methods Guide: Research Design & Method, Virginia Tech\n\n\n\n\n\n\n\n\n\nBOX\n\n\n\nResearch Design VS Research Methods: what are the main differences?\nResearch Design refers to the overall structure and plan of the study, including:\n\nDeciding on the research objectives and approach (quantitative, qualitative, case study, etc.).\nDetermining whether primary or secondary research will be conducted.\nIf primary research is conducted, specifying the data collection methods and procedures.\nDefining the research/data analysis methods.\n\nResearch Methods are the specific techniques used to collect and analyze data, such as:\n\nSurveys\nInterviews\nStatistical analyses\nLiterature reviews\nDiscourse analysis\nExploratory data analysis\n\n\n\n\n3.1.1 Conceptual Note\nThe Conceptual Note establishes: 1. Purpose: What the study aims to achieve (describe, explain, or understand a phenomenon) and relates back to the study’s scope and objectives. 2. Conceptual Framework: The concepts, theoretical foundation, mechanics, and assumptions that contextualize and guide the research, helping to interpret the findings.\nThe conceptual framework provides a structure for organizing ideas, ensuring coherence in the research design and analysis by: - Guiding the research: Developing a clear understanding of the relationships and concepts that underpin the research. - Informing hypotheses: Outlining key variables, their interrelationships, and the expected direction of effects.\n\n\n3.1.2 Identifying and Articulating Assumptions\nAssumptions are the presuppositions that underlie the conceptual framework. They are beliefs the research relies on but does not verify. Identifying and articulating these assumptions ensures transparency and clarity, helping stakeholders understand the analyst’s perspective and ensuring that the study’s objectives and outcomes are aligned.\n\n\n3.1.3 Research Method Selection\nThe selection process involves determining the most appropriate approach to address the research questions and hypotheses, considering factors such as:\n\nThe nature of the research topic (exploratory, descriptive, or explanatory).\nAvailable resources (time, budget, and access to data).\nTime constraints.\nThe desired level of detail and accuracy in findings.\n\nCommon research methods include:\n\nQuantitative Methods: Collecting numerical data and analyzing it using statistical techniques.\nQualitative Methods: Gathering non-numerical data, such as interviews or textual analysis.\nMixed Methods: Combining quantitative and qualitative methods for a comprehensive understanding of the research topic.\n\n\n\n3.1.4 Formulating Research Questions and Hypotheses\nResearch Questions should be specific, concise, and focused on key aspects of the research topic. They guide the overall inquiry and investigation.\nHypotheses are specific statements or assumptions derived from the research questions, providing a testable proposition about the relationship between variables.\nIn summary:\n\nResearch Questions guide the overall inquiry and are broad and open-ended.\nHypotheses are specific statements that propose relationships or predictions about variables.\n\nBy following these guidelines, OSAA staff can ensure that their research design is structured, transparent, and aligned with the organization’s strategic goals.",
-    "crumbs": [
-      "Main Section",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Designing an Analysis Plan</span>"
-    ]
-  },
-  {
-    "objectID": "research-design.html#footnotes",
-    "href": "research-design.html#footnotes",
-    "title": "3  Designing an Analysis Plan",
-    "section": "",
-    "text": "Robson, C., & McCartan, K. (2016). Real world research: A resource for users of social research methods in applied settings↩︎",
-    "crumbs": [
-      "Main Section",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Designing an Analysis Plan</span>"
-    ]
-  },
-  {
-    "objectID": "research-design.html#research-design-vs-research-methods-what-are-the-main-differences",
-    "href": "research-design.html#research-design-vs-research-methods-what-are-the-main-differences",
-    "title": "3  Designing an Analysis Plan",
-    "section": "",
-    "text": "Research Design refers to the overall structure and plan of the study, including: + Deciding on the research objectives and approach (quantitative, qualitative, case study, etc.). + Determining whether primary or secondary research will be conducted. + If primary research is conducted, specifying the data collection methods and procedures. - Defining the research/data analysis methods.\nResearch Methods are the specific techniques used to collect and analyze data, such as: - Surveys - Interviews - Statistical analyses - Literature reviews - Discourse analysis - Exploratory data analysis",
-    "crumbs": [
-      "Main Section",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Designing an Analysis Plan</span>"
-    ]
-  },
-  {
-    "objectID": "preliminary-research.html#designing-an-analysis-plan",
-    "href": "preliminary-research.html#designing-an-analysis-plan",
-    "title": "2  Preliminary Research",
-    "section": "2.3 Designing an Analysis Plan",
-    "text": "2.3 Designing an Analysis Plan\n\n2.3.1 Research Design\nResearch Design vs. Research Methods\n\n“Research design is a plan to answer your research question. A research method is a strategy used to implement that plan. Research design and methods are different but closely related, as good research design ensures that the data you obtain will help you answer your research question more effectively.” — Research Methods Guide: Research Design & Method, Virginia Tech\n\nResearch design, also known as research methodology, concerns the various aspects which should be considered when carrying out a research project. It involves turning research questions into research projects and primarily deals with goals, purposes, intentions, and plans while considering practical constraints such as location, time, and resources.\n There are a number of research design models. The one presented in the image above (on the left) is a simple framework by Robson & McCartan (2016) 1. The model (on the right) has been adapted to OSAA’s procedures in two ways:\n\nTo exclude sampling concerns, as OSAA staff are not expected to conduct statistical surveys.\nTo combine the purpose and conceptual framework into one Conceptual Note element, as is OSAA’s current practice (see section above for details on the Conceptual Note).\n\n\n\n\n\n\n\nBOX 1: Research Design vs Research Methods\n\n\n\n\n\nResearch Design VS Research Methods: what are the main differences?\nResearch Design refers to the overall structure and plan of the study, including:\n\nDeciding on the research objectives and approach (quantitative, qualitative, case study, etc.).\nDetermining whether primary or secondary research will be conducted.\nIf primary research is conducted, specifying the data collection methods and procedures.\nDefining the research/data analysis methods.\n\nResearch Methods are the specific techniques used to collect and analyze data, such as:\n\nSurveys\nInterviews\nStatistical analyses\nLiterature reviews\nDiscourse analysis\nExploratory data analysis\n\n\n\n\n\n\n2.3.2 Conceptual Note\nThe Conceptual Note establishes: 1. Purpose: What the study aims to achieve (describe, explain, or understand a phenomenon) and relates back to the study’s scope and objectives. 2. Conceptual Framework: The concepts, theoretical foundation, mechanics, and assumptions that contextualize and guide the research, helping to interpret the findings.\nThe conceptual framework provides a structure for organizing ideas, ensuring coherence in the research design and analysis by: - Guiding the research: Developing a clear understanding of the relationships and concepts that underpin the research. - Informing hypotheses: Outlining key variables, their interrelationships, and the expected direction of effects.\n\n2.3.2.1 Identifying and Articulating Assumptions\nAssumptions are the presuppositions that underlie the conceptual framework. They are beliefs the research relies on but does not verify. Identifying and articulating these assumptions ensures transparency and clarity, helping stakeholders understand the analyst’s perspective and ensuring that the study’s objectives and outcomes are aligned.\n\n\n\n2.3.3 Research Method Selection\nThe selection process involves determining the most appropriate approach to address the research questions and hypotheses, considering factors such as:\n\nThe nature of the research topic (exploratory, descriptive, or explanatory).\nAvailable resources (time, budget, and access to data).\nTime constraints.\nThe desired level of detail and accuracy in findings.\n\nCommon research methods include:\n\nQuantitative Methods: These involve collecting numerical data and analyzing it using statistical techniques. Quantitative methods are useful for measuring and analyzing relationships, patterns, and trends.\nQualitative Methods: These focus on gathering non-numerical data, such as interviews, focus groups, or textual analysis. Qualitative methods provide in-depth insights, capturing perspectives, experiences, and contextual nuances.\nMixed Methods: These combine quantitative and qualitative methods, allowing for a more comprehensive understanding of the research topic. Mixed methods can provide a deeper exploration of complex phenomena. This can be achieved by a back and forth analysis of underlying patterns, trends and relationships, through quantitative analysis, combined with in-depth exploration of cause-and-effect mechanisms behind these trends, through study case analysis.\n\nThe Research Methods Guide: Research Design & Method, by Virginia Tech, presents a non-exhaustive list of methods’ options, of which these are the most likely options in the context of OSAA’s work:\n\nNon-household surveys. These may be conducted to collect information on African countries not included on public/paid country data available online, or otherwise. For instance, maintaining an updated database with historical information on all ODA concessional loans in Africa. Some crucial information may not be systematically collected by any other sources at this point.\nInterviews and/or focus groups may be conducted with experts, stakeholders, field staff (UN or National Governments), etc.\nSecondary Data Analysis, one common method currently applied at OSAA, as the main focus of the organization has been to leverage the vast amount of information already produced within the data ecosystems of the United Nations, African Union, academia and many more.\nDocumentation review, likely the most commonly applied method at OSAA. Along with interviews and surveys, it forms the most common combination of methods for case studies.\nMixed Methods, a combination of quantitative and qualitative methods, as, for instance, the combined approach of secondary data analysis and case studies. These combine quantitative and qualitative methods, allowing for a more comprehensive understanding of the research topic. Mixed methods can provide a deeper exploration of complex phenomena. This can be achieved by a back and forth analysis of underlying patterns, trends and relationships, through quantitative analysis, combined with in-depth exploration of cause-and-effect mechanisms behind these trends, through study case analysis.\n\nThe possible combinations can be extensive, and, some, uncommon. In any case of doubt, the staff member should seek out the assistance of OSAA’s Strategic Management Unit (SMU) Data team.\n\n\n2.3.4 Research Question and Hypotheses\n\n2.3.4.1 Formulating a Research Question\nResearch questions should be specific, concise, and scoped on the key aspects of the research topic. Staff members should ask themselves: what needs to be known in order to achieve the purpose(s) of the study? Is that feasible to ask given the time and resources available?\nFormulating clear research questions is essential for guiding the research process and addressing the objectives of the study. They provide a focused direction and serve as a roadmap for the investigation and help staff stay on track throughout the study. When formulating research questions, also consider the following:\n\nEnsure clarity: Research questions should be concise, specific, and clearly articulated. They should address the key issues or gaps in knowledge, identified during preliminary research, and the discussion presented in the conceptual note.\nEstablish relevance: Research questions should align with the strategic objectives and guiding principles of OSAA. They should aim to deliver on the USG’s strategic guidance and provide actionable insights to inform decision-making.\n\n\n\n2.3.4.2 The Relationship Between Research Question and Hypotheses\nResearch questions and hypotheses are closely related components of the research process. Research questions outline the overall inquiries to be addressed, while hypotheses are specific statements that propose relationships or predictions about variables in the study, which the study aims to test or, simply, investigate.\n\n\n\n\n\n\nBOX 2: Variables vs Indicators\n\n\n\n\n\nFor the purposes of the data work at OSAA, a variable is defined the same as a column (aka an attribute) in a spreadsheet. For instance, in a table with country data (i.e. each row is a different country) and a column with each country’s GDP value, aptly named “GDP”, “GDP” is a variable. It is called a variable because, even though it measures the same phenomena (the country GDP), it varies from country to country (or from row to row). An indicator may be the equivalent to a variable (GDP can itself be an indicator) or require computation from more than one variable. In the same example, to get the “GDP per Capita” indicator, one must compute it using both the “GDP” and “Population” variables.\n\n\n\nHypotheses provide a more precise and testable framework for data collection and analysis, supporting the research questions by offering specific propositions (i.e. predictions) to be evaluated.\nIn summary:\n\nResearch Questions These guide the overall inquiry and investigation. They are broad and open-ended, seeking to explore and understand a particular aspect of the research topic.\nHypotheses These are specific statements or assumptions derived from the research questions. Hypotheses provide a testable proposition about the relationship between measures (i.e. variables). They help researchers frame their analysis and provide a structured approach to answering the research questions.",
-    "crumbs": [
-      "Main Section",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Preliminary Research</span>"
-    ]
-  },
-  {
-    "objectID": "preliminary-research.html#footnotes",
-    "href": "preliminary-research.html#footnotes",
-    "title": "2  Preliminary Research",
-    "section": "",
-    "text": "Robson, C., & McCartan, K. (2016). Real world research: A resource for users of social research methods in applied settings↩︎",
-    "crumbs": [
-      "Main Section",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Preliminary Research</span>"
-    ]
-  },
-  {
-    "objectID": "preliminary-research.html#identify-data-sources",
-    "href": "preliminary-research.html#identify-data-sources",
-    "title": "2  Preliminary Research",
-    "section": "3.1 Identify Data Sources",
-    "text": "3.1 Identify Data Sources\n\n3.1.1 Internal Sources\nInternal data sources (e.g., databases, organizational records) refer to data generated or collected within the UN System. These sources can include databases, administrative records, surveys conducted by the organization, or any other data repositories specific to the organization’s operations or research activities. Staff members should identify and list all the internal data sources that may contain pertinent information for their research.\n\n\n3.1.2 External Sources\nExternal data sources (e.g., public datasets, research studies) encompass data that is obtained from external entities or organizations. These sources can include publicly available datasets, research studies, reports published by government agencies, academic institutions, think tanks, or other relevant sources of publicly accessible data. Staff members should identify and list the external data sources that may contribute to the policy analysis.",
-    "crumbs": [
-      "Main Section",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Preliminary Research</span>"
-    ]
-  },
-  {
-    "objectID": "preliminary-research.html#gather-information-on-each-data-source",
-    "href": "preliminary-research.html#gather-information-on-each-data-source",
-    "title": "2  Preliminary Research",
-    "section": "3.2 Gather Information on Each Data Source",
-    "text": "3.2 Gather Information on Each Data Source\nFor each identified data source, gather information about the data itself. This information will help in assessing the compatibility and usability of the data for the policy analysis, which will help estimate the amount of data work required for extracting, transforming, and making the data available for analysis.\nFurthermore, the data inventory procedure provides a comprehensive overview of the data available for the analysis (and the data missing, or the data gap). This helps ensure that the necessary information is available for subsequent stages of analysis, i.e., the in-depth research.\n\n3.2.1 Steps in Developing a Data Inventory Annex\nDetailed instructions are provided in the Data Inventory Template in the Annex. In general, however, the information on data (i.e., the metadata) collected in the data inventory can be classified into two categories:\n\nSource Metadata: Identifies the specific formats in which the data is available, such as spreadsheets, databases, text files, CSV, PDF, or APIs.\nData Metadata: Identifies the relevant measures, type (numerical, text, or categorical measures/variables), indicators, and visuals for the list of research questions and assumptions identified during the analysis planning phase.",
-    "crumbs": [
-      "Main Section",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Preliminary Research</span>"
-    ]
-  },
-  {
-    "objectID": "preliminary-research.html#data-access-and-data-risk-protocols",
-    "href": "preliminary-research.html#data-access-and-data-risk-protocols",
-    "title": "2  Preliminary Research",
-    "section": "3.3 Data Access and Data Risk Protocols",
-    "text": "3.3 Data Access and Data Risk Protocols\nPrioritize public, freely available country-level data for the data inventory. Identify any crucial non-public data that may be required for the analysis. Clearly indicate these as risk factors to the data analysis, as their limited availability or access restrictions may impact the development of the analysis.\nBy prioritizing public, freely available data at the country-level and clearly identifying any non-public data needs as risk factors, the data inventory process ensures a focus on accessible and transparent data sources while acknowledging potential limitations. This approach promotes transparency, reproducibility, and the use of reliable data, while also highlighting any potential challenges or gaps that may arise from limited access to certain datasets.\nWhen opting to work with non-public data, staff members should also consider the legal and ethical implications of accessing this restricted data, as well as ensure compliance with relevant regulations and obtain appropriate permissions, if necessary.",
-    "crumbs": [
-      "Main Section",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Preliminary Research</span>"
-    ]
-  },
-  {
-    "objectID": "indepth-research.html",
-    "href": "indepth-research.html",
-    "title": "3  In-depth Research",
-    "section": "",
-    "text": "3.1 Output Development",
-    "crumbs": [
-      "Main Section",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>In-depth Research</span>"
-    ]
-  },
-  {
-    "objectID": "indepth-research.html#output-development",
-    "href": "indepth-research.html#output-development",
-    "title": "3  In-depth Research",
-    "section": "",
-    "text": "3.1.1 Core Components of a Policy Analysis Output\nTo help set a fluid flow for the document, it is suggested that staff members start by presenting the research substantiation. This is an opportunity to expand on the conceptual note and anchor the output on the USG Strategic Guidance.\nSecondly, authors should present and discuss the findings of their analysis while supporting their claims with evidence. This should be achieved either by presenting specific data, references, or quotes, or by arriving at logical conclusions based on previously introduced evidence. Expert opinions can, and should, be presented, but they should be coupled fairly with the evidence provided in the document. It should not be expected of the audience to simply “take your word for it.”\nFinally, the concluding remarks should serve to clearly and concisely emphasize the main messages or insights that the analysis aims to elucidate.\n\n\n3.1.2 Practical Contributions\nHere are a few key attributes to keep in mind at each stage. These are not compulsory and should be regarded as simple advice, to be taken on if perceived as helpful:\n\n3.1.2.1 Substantiation\nThis segment expands on the conceptual note. It starts with an exposition on the importance of the topic, followed by a literature review that identifies existing theories, conflicts, or gaps leading to the research question. Finally, the research question (and corresponding hypothesis, if applicable) and an outline of the document are presented. The introduction section follows a progressively narrowing approach, starting broadly and gradually focusing on the research question.\n\n\n\n\n\n\nTip\n\n\n\n\n\nFocus on defining the problem or issue. Emphasize its priority or gravity level and objectively present the evidence landscape to persuade the audience that this is a priority, and why. Prioritize objectivity, reserving your voice for the discussion phase.\n\n\n\n\n\n3.1.2.2 Discussion\nThe discussion section serves two primary objectives: 1. To demonstrate that the research provides a convincing answer to the posed question. 2. To illustrate the value of that answer.\nThe discussion section may begin with a brief summary of the research methods and results (if applicable). This is followed by an interpretation of the findings, explaining their significance and whether they support the hypothesis or if there could be other explanations.\nOften, a section is dedicated to discussing the limitations of the study. This includes acknowledging the weaker aspects of the research and assessing whether these limitations invalidate the conclusions or if they can still be drawn despite the limitations. This should be optional and decided on a case-by-case basis, considering the specifics of the work.\n\n\n\n\n\n\nTips\n\n\n\n\n\n\nAnalyze, do not merely present the data. Your conclusions should make sense of the (quantitative or qualitative) data presented.\nDevelop a theory of change that connects your arguments to your conclusions.\n\n\n\n\n\n\n3.1.2.3 Conclusion\nThe final segment of the discussion section is the summary and conclusion. This component aims to encapsulate the learnings from the research and delineate the subsequent steps or recommendations. The significance of this section lies in its position as the final part of the document that readers will engage with. Readers often jump directly to this section to glean a summary of the research’s insights. If they find the summary compelling, they may invest time in reading the entire article. Therefore, it is advisable to begin with the research question, swiftly move to the results, bypass the method, and dedicate more space to reiterate the key insights, implications, and the value of the research. Mentioning limitations is not recommended in this section.\n\n\n\n\n\n\nTips\n\n\n\n\n\n\nBriefly remind the audience of the overall picture: the goal of the work and the gravity of the matter. Remind the audience why the recommendations matter.\nAddress the feasibility of your recommendations and any caveats or reservations to keep in mind, if appropriate.\nProvide allies for further analysis and/or a call to action (whichever makes sense in the reasoning developed).\n\n\n\n\n\n\n3.1.2.4 Executive Summary\nThe executive summary leverages the expertise and credibility of the analyst and conveys key recommendations to the reader. It succinctly summarizes the main points for busy readers, while also highlighting recommendations in a memorable manner that drives future discussions. It may help to consider the perspective of the decision maker: What key points will best ensure the audience’s remembrance and understanding of the analysis arguments and conclusions?\nAs a general rule, the executive summary should not exceed five percent of the complete document. However, its length should be adjusted as necessary to effectively summarize the key points. The executive summary should be crafted with precision and conciseness, ensuring that it captures the essence of your research and recommendations. A recommended structure for this section would include summarized versions of:\n\nThe problem statement\nThe methodological approach (if applicable)\nThe key findings/recommendations\nThe main conclusions and/or implications\n\nA recommended framework approach to draft your summary is to use the journalist’s questions: “Who / What / Why / How.” 1",
-    "crumbs": [
-      "Main Section",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>In-depth Research</span>"
-    ]
-  },
-  {
-    "objectID": "indepth-research.html#footnotes",
-    "href": "indepth-research.html#footnotes",
-    "title": "3  In-depth Research",
-    "section": "",
-    "text": "“Asking Journalistic Questions” is a useful resource that can help reformulate these questions within the context of research.↩︎",
-    "crumbs": [
-      "Main Section",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>In-depth Research</span>"
-    ]
-  },
-  {
-    "objectID": "indepth-research.html#output-standard-formats",
-    "href": "indepth-research.html#output-standard-formats",
-    "title": "3  In-depth Research",
-    "section": "3.2 Output Standard Formats",
-    "text": "3.2 Output Standard Formats\nThis section outlines the standard formats used for knowledge production within OSAA. These formats are designed to cater to different purposes, audiences, and content requirements, ensuring that the outputs are tailored to the specific needs of the stakeholders and align with the strategic objectives of the organization.\n\n\n\nKnowledge Products\n\n\n\n3.2.1 Document Formats\nBelow is a comprehensive list of document formats used within the context of OSAA’s knowledge production work. Each format serves a unique purpose and is characterized by specific length and content criteria. These clear and concise definitions aim to facilitate effective communication and understanding among the staff and all OSAA stakeholders.\n\nStudies: Long documents (approximately 10,000 words) that combine background, research, and policy recommendations.\nPolicy Papers: Longer documents (approximately 5,000 to 6,000 words) that analyze in depth a specific policy question.\nPolicy Briefs: Short, policy-focused documents (approximately 3,000 or less) that contain specific policy recommendations, normally derived from a previous Policy Paper’s concluding remarks.\nSnapshot: Short (1 page or less) and highly visual and data-based document to convey information about a specific topic. It usually summarizes findings of another written product, i.e., any of the above.\n\n\n\n3.2.2 Publications & Technical Writings\nBesides these guidelines, the staff member should consider if the document is intended as a general or technical publication. Technical publications are intended for a technical/expert audience, meaning the audience is expected to have some technical background on the content of the exposé. General Publications do not assume specialized background knowledge and have greater concern with designing storytelling arcs to help persuade its broader audience.\n\n\n3.2.3 Output Functional Alignment\nA second classifier to keep in mind, other than general vs. technical publication, is to consider which OSAA function the document best aligns to. The staff members should consider if the document is intended as:\n\nA diagnostic tool that serves policy monitoring,\nAn advisory contribution to assist/inform a specific need of a specific audience, or\nAn advocacy output aiming at broadcasting and persuading a larger audience on the merits of a specific narrative being presented.\n\n\n\n3.2.4 Output Outline Framework\nThe Output Outline Framework is a structured guide designed to assist OSAA staff in organizing and presenting their research findings across various document formats, including Studies, Policy Papers, Policy Briefs, and Snapshots. The framework is visually represented in the accompanying table, which categorizes key sections of a document—such as the Executive Summary, Introduction, Methodology, Literature Review, and more—into three essential components: Substantiation, Discussion, and Conclusion. Each section is further defined with specific descriptions and aligned with the type of document to which it applies, with optional elements marked where there is flexibility. This structured approach ensures that every output is comprehensive, logically organized, and tailored to effectively communicate the research’s key messages, findings, and recommendations to its intended audience.\n\n\n\nProduct Outline Framework",
-    "crumbs": [
-      "Main Section",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>In-depth Research</span>"
     ]
   },
   {
@@ -487,61 +257,6 @@
     ]
   },
   {
-    "objectID": "appendix/survey.html#survey-checklist",
-    "href": "appendix/survey.html#survey-checklist",
-    "title": "4  Research Compliance Survey",
-    "section": "5.1 Survey Checklist",
-    "text": "5.1 Survey Checklist\n\n5.1.1 1. Preliminary Research\n\nHave you developed an understanding of the main existing theories, concepts, data sources, bibliographic references, and methodologies related to the field of study?\nHave you identified the gap in knowledge/understanding you plan to fill with this output?\n\nPreliminary Research Requirements:\n\nLiterature Review: Do you have a clear outline of the problem, its causes, and effects?\nStakeholder Analysis: Have you identified the key stakeholders who have expertise or interest in the research area?\nPreliminary Data Analysis: Have you identified data patterns, trends, and potential areas for further investigation?\nDefining Scope and Objectives: Have you defined the scope and objectives for your study that align with the gap identified?\n\n\n\n5.1.2 2. Designing an Analysis Plan\n\nHave you used the Data Analysis Plan and Data Inventory templates to build a roadmap for data gathering, analysis, and interpretation?\nDoes your research purpose (goal) match the knowledge gap you plan to address?\n\nConceptual Framework:\n\nHave you outlined the key measures, their interrelationships, and the expected direction of effects?\nHave you presented your assumptions, i.e., the intentions and desired contributions of your work? Do these align with the study scope and objectives from preliminary research?\n\n\n\n5.1.3 3. Data Inventory\n\nHave you identified your sources as Internal vs. External?\nHave you added source and data metadata to each of your sources?\nIf you require non-public data sources, have you confirmed there are no suitable public alternatives?\nIf you require non-public data sources, have you clearly identified those as risks?\n\n\n\n5.1.4 4. Output Development\n\nHave you followed the output components matrix framework when designing your output outline and, later, your first draft?\nAre you satisfied that you have aptly presented the foundation, argumentation, and conclusion of your narrative?\nDoes your executive summary help the reader get a sense of who/what/why and how?",
-    "crumbs": [
-      "Appendix",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Research Compliance Survey</span>"
-    ]
-  },
-  {
-    "objectID": "appendix/survey.html#preliminary-research-conduct-thorough-preliminary-research-to-identify-research-gaps-guide-analysis-planning-and-enhance-research-relevance.",
-    "href": "appendix/survey.html#preliminary-research-conduct-thorough-preliminary-research-to-identify-research-gaps-guide-analysis-planning-and-enhance-research-relevance.",
-    "title": "4  Research Compliance Survey",
-    "section": "5.1 1. Preliminary Research: Conduct thorough preliminary research to identify research gaps, guide analysis planning, and enhance research relevance.",
-    "text": "5.1 1. Preliminary Research: Conduct thorough preliminary research to identify research gaps, guide analysis planning, and enhance research relevance.\n\nHave you developed an understanding of the main existing theories, concepts, data sources, bibliographic references, and methodologies related to the field of study?\nHave you identified the gap in knowledge/understanding you plan to fill with this output?\nPreliminary research requirements:\n\nLiterature review: Do you have a clear outline of the problem, its causes and effects?\nStakeholder analysis: Have you identified the key stakeholders who have expertise or interest in the research area?\nPreliminary data analysis: Have you identified data patterns, trends, and potential areas for further investigation?\nDefining scope and objectives: Have you defined the scope and objectives for your study that align with the gap identified?",
-    "crumbs": [
-      "Appendix",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Research Compliance Survey</span>"
-    ]
-  },
-  {
-    "objectID": "appendix/survey.html#designing-an-analysis-plan-communicate-the-purpose-of-the-study-and-develop-a-conceptual-framework-identify-and-articulate-assumptions-and-distinguish-between-research-design-and-research-methods.",
-    "href": "appendix/survey.html#designing-an-analysis-plan-communicate-the-purpose-of-the-study-and-develop-a-conceptual-framework-identify-and-articulate-assumptions-and-distinguish-between-research-design-and-research-methods.",
-    "title": "4  Research Compliance Survey",
-    "section": "5.2 2. Designing an Analysis Plan: Communicate the purpose of the study and develop a conceptual framework, identify and articulate assumptions, and distinguish between research design and research methods.",
-    "text": "5.2 2. Designing an Analysis Plan: Communicate the purpose of the study and develop a conceptual framework, identify and articulate assumptions, and distinguish between research design and research methods.\n\nHave you used the Data Analysis Plan and Data Inventory templates to build a roadmap for data gathering, analysis, and interpretation?\nDoes your research purpose (goal) match the knowledge gap you plan to address?\nConceptual Framework:\n\nHave you outlined the key measures, their interrelationships, and the expected direction of effects?\nHave you presented your assumptions, i.e., the intentions and desired contributions of your work? Do these align with the study scope and objectives from preliminary research?\n\nResearch Method Selection:\n\nHave you identified the nature of your research? I.e., is it exploratory, explanatory, or descriptive?\nHave you listed the methods you are considering using, whether they are quantitative, qualitative, or mixed methods?\n\nResearch Question and Hypothesis:\n\nHave you clearly identified specific research questions that address the gap in knowledge identified during preliminary research?\nDo your questions align with OSAA’s strategic goals?\nHave you listed your hypotheses as testable propositions on the relationship between the variables you will be looking at?",
-    "crumbs": [
-      "Appendix",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Research Compliance Survey</span>"
-    ]
-  },
-  {
-    "objectID": "appendix/survey.html#data-inventory-identify-internal-and-external-data-sources-gather-information-on-each-data-source-and-prioritize-public-freely-available-country-level-data.",
-    "href": "appendix/survey.html#data-inventory-identify-internal-and-external-data-sources-gather-information-on-each-data-source-and-prioritize-public-freely-available-country-level-data.",
-    "title": "4  Research Compliance Survey",
-    "section": "5.3 3. Data Inventory: Identify internal and external data sources, gather information on each data source, and prioritize public, freely available country-level data.",
-    "text": "5.3 3. Data Inventory: Identify internal and external data sources, gather information on each data source, and prioritize public, freely available country-level data.\n\nHave you identified your sources as Internal vs. External?\nHave you added source and data metadata to each of your sources?\nIf you require non-public data sources, have you confirmed there are no suitable public alternatives?\nIf you require non-public data sources, have you clearly identified those as risks?",
-    "crumbs": [
-      "Appendix",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Research Compliance Survey</span>"
-    ]
-  },
-  {
-    "objectID": "appendix/survey.html#output-development-structure-policy-analysis-output-with-a-foundation-argumentation-and-conclusion-and-craft-an-effective-executive-summary.",
-    "href": "appendix/survey.html#output-development-structure-policy-analysis-output-with-a-foundation-argumentation-and-conclusion-and-craft-an-effective-executive-summary.",
-    "title": "4  Research Compliance Survey",
-    "section": "5.4 4. Output Development: Structure policy analysis output with a foundation, argumentation, and conclusion, and craft an effective executive summary.",
-    "text": "5.4 4. Output Development: Structure policy analysis output with a foundation, argumentation, and conclusion, and craft an effective executive summary.\n\nHave you followed the output components matrix framework when designing your output outline and, later, your first draft?\nAre you satisfied you have aptly presented the foundation, argumentation, and conclusion of your narrative?\nDoes your executive summary help the reader get a sense of who/what/why and how?",
-    "crumbs": [
-      "Appendix",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Research Compliance Survey</span>"
-    ]
-  },
-  {
     "objectID": "appendix/survey.html#preliminary-research",
     "href": "appendix/survey.html#preliminary-research",
     "title": "4  Research Compliance Survey",
@@ -674,6 +389,17 @@
     ]
   },
   {
+    "objectID": "appendix/editorial.html#references",
+    "href": "appendix/editorial.html#references",
+    "title": "7  Editorial Guidelines",
+    "section": "",
+    "text": "Smith, John. 2005. Politics and Policy. New York: Political Science Press.",
+    "crumbs": [
+      "Appendix",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Editorial Guidelines</span>"
+    ]
+  },
+  {
     "objectID": "appendix/editorial.html#footnotes-and-text-notes",
     "href": "appendix/editorial.html#footnotes-and-text-notes",
     "title": "7  Editorial Guidelines",
@@ -712,28 +438,6 @@
     "title": "7  Editorial Guidelines",
     "section": "7.5 Indirect Speech",
     "text": "7.5 Indirect Speech\nThe UN’s guidelines on indirect speech are followed, where the tense of the verb should be backshifted. For example:\n\n“The representative of France stated that his delegation would support the resolution”\n\nInstead of:\n\n“The representative of France states that his delegation will support the resolution.”",
-    "crumbs": [
-      "Appendix",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Editorial Guidelines</span>"
-    ]
-  },
-  {
-    "objectID": "appendix/editorial.html#references",
-    "href": "appendix/editorial.html#references",
-    "title": "7  Editorial Guidelines",
-    "section": "",
-    "text": "Smith, John. 2005. Politics and Policy. New York: Political Science Press.",
-    "crumbs": [
-      "Appendix",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Editorial Guidelines</span>"
-    ]
-  },
-  {
-    "objectID": "appendix/editorial.html#references-management",
-    "href": "appendix/editorial.html#references-management",
-    "title": "7  Editorial Guidelines",
-    "section": "7.6 References’ Management",
-    "text": "7.6 References’ Management\nThe management of references is a critical aspect of technical writing. It is advisable to use reference management software to organize and format references according to the APSA style. Such software can automate the process of creating, formatting, and updating references, thereby saving time and ensuring accuracy. Examples of popular reference management software include Jabref, EndNote, Zotero, and Mendeley. The recommended tool at OSAA is JabRef. Installation and quickstart guides are available at https://docs.jabref.org/. These tools can be particularly helpful in managing large numbers of references and ensuring adherence to the OSAA’s editorial guidelines.",
     "crumbs": [
       "Appendix",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Editorial Guidelines</span>"
