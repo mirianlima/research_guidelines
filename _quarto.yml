@@ -5,7 +5,6 @@ project:
 book:
   title: Research Guidelines
   subtitle: "OSAA Research Management Guide"
-  reader-mode: true
   page-footer:
     right: |
       Written by [Mirian Lima](mailto:mirian.lima@un.org) @OSAA
